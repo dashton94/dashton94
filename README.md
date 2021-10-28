@@ -1,4 +1,4 @@
-Hi, I'm Dominic Ashton, a graduating astrophysics PhD student (University of Southampton) and data scientist. I specialise in big data statistical analysis using python as my primary language, with 5 years of active research experience. 
+Hi, I'm Dominic Ashton, a graduating astrophysics PhD student (University of Southampton) and data scientist. I specialise in big data statistical analysis using python as my primary language, with 5 years of active research experience in high energy astronomy. 
 
 I am currently job searching for data science roles (or similar) based in London, UK. To contact me about job opportunities, see my linkedin page: https://www.linkedin.com/in/dominic-ashton/ 
 
