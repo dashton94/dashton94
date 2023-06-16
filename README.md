@@ -1,1 +1,1 @@
-Hi, I'm Dominic Ashton, a junior data scientist at EDITED and former astrophysics researcher.
+Hi, I'm Dominic Ashton, a data scientist at EDITED and former astrophysics researcher.
